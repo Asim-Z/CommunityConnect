@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Admin
+comment1.params=username\ password\ issue\ description\ votes\ voted
+comment1.target=Admin(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=Events.Event\ addEvent()
+comment3.params=
+comment3.target=void\ deletePost()
+comment4.params=users
+comment4.target=void\ removeUser(java.util.List)
+comment5.params=users
+comment5.target=void\ resetVoting(java.util.List)
+numComments=6

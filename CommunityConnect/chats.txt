@@ -1,0 +1,6 @@
+Alice|Hello|2025-08-04
+Bob|How can I find the next event?|2025-08-04
+Charlie|Go to Main Menu and press 3.|2025-08-04
+Mark|Hi, I'm new here.|2025-08-04
+Zafaradil|hello guys|2025-08-04
+asim12|i like to eat food|2025-08-04
